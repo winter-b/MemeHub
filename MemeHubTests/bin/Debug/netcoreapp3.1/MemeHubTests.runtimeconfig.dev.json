@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dopab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dopab\\.nuget\\packages"
+    ]
+  }
+}
